@@ -1,15 +1,13 @@
 # Curso plataformas abiertas.
 
 ## Descripcion.
-Repositorio del curso plataformas abiertas por el profesor Daniel.
-
-Acá estarán todos los archivos relacionados al curso.
+Repositorio demostracion para los estudiantes.
 
 ## Ejemplo de como mostrar una imagen.
 
 Acá un ejemplo de como mostrar una imagen en un readme.
 
-![alt text](./semana%2003/scripts/diagrama.png "Diagrama")
+![alt text](./otros/imagenes/diagrama.png "Diagrama")
 
 
 
