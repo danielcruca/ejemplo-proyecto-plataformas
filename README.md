@@ -12,6 +12,9 @@ Acá un ejemplo de cómo mostrar una imagen en un README.
 
 ## Uso de Endpoints de la API
 
+Ejemplo de como puede ir documentados los endpoints.
+
+
 1. Endpoints para obtener todos los libros:
    - Método: GET
    - Endpoint: `http://localhost/api/libreria-api/public/index.php/libros/`
